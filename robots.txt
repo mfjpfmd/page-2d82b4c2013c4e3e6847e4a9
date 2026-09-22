@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ifweb.cn/sitemap.xml
